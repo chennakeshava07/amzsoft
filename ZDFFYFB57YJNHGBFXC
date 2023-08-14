@@ -1,0 +1,18 @@
+Task 2 : Learn about python variables, data Types and basic Operations.
+Explanation:
+Python Variables:
+Variable are containers for storing data Values, python has no separate command for declaring a variable. But there are some rules for declaring the variables in Python.
+Rule 1:
+NO Special character are used except underscore(_) to Declare the variables.
+Rule 2:
+While naming a variable it should not be start with number 
+ 
+Rule 3:
+Keyword or Reserved word should not be used for naming a variable.
+ 
+Rule 4:
+Declaring the variable is the case Sensitive, Once a variable is declared with capital letters it should called everywhere in the program with Capital letters only changing in the case will not read the variable.
+ 
+Rule 5:
+A variable may be the combination of Alpha-Numeric and With Underscore.
+ 
