@@ -1,0 +1,30 @@
+Data Types:
+Interpretation of the memory is called Data Types
+We can find the data type in python by using type(data) 
+There are following data types:
+1.Integers
+2.Floating point Number
+3.String
+4.Boolean
+5.Complex
+Source Code and Output: 
+Name=input()
+Roll_Number=int(input())
+gender=bool(input())
+Avg_Marks=float(input())
+com=complex(4,5)
+print(Name,type(Name))
+print(Roll_Number,type(Roll_Number))
+print(gender,type(gender))
+print(com,type(com))
+print(Avg_Marks,type(Avg_Marks))
+Output:
+keshava
+501
+male
+5.6546546645
+keshava <class 'str'>
+501 <class 'int'>
+True <class 'bool'>
+(4+5j) <class 'complex'>
+5.6546546645 <class 'float'>
